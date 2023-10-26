@@ -7,7 +7,7 @@ Student
 I've been learning to code for 4 years
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning Java SpringBoot REST API
+* 🌱 I’m currently learning Docker and Spring Boot 
 
 ### Skills
 

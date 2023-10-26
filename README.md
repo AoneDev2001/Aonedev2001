@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aone Obomo
 ==================================================================================================================================
-About Me
+#About Me
 I have been an Android Developer for the past 3 Years(+), developing flexible and detail-oriented Applications for the Android Platform(Mobile and IoT), Conceptualizing application solutions with the latest technologies, design theory, and a large dose of creativity. I am committed to viable and easily functional app solutions. I develop Android Native software that interacts with android and other IOT devices with POS devices and Bluetooth-connected devices as examples.
 
 * 🌍  I'm based in Bangkok, Thailand

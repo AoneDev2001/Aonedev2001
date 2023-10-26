@@ -1,8 +1,9 @@
-# Hi there 👋, my name is Aone
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aone 
+==================================================================================================================================
 I am a Full Stack Developer with a passion for creating innovative and user-friendly web applications. My skills include proficiency in various programming languages such as JavaScript, Python, and HTML/CSS, as well as experience with popular frameworks such as React and Node.js. I am always eager to learn new technologies and stay up-to-date with industry trends. I am a problem-solver at heart and strive to create elegant solutions for complex challenges.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning Java SpringBoot REST API
+* 🧠  I'm learning Java SpringBoot REST API and Docker
 
 ### Skills
 
